@@ -34,27 +34,27 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, or `dark`.
-  color_theme = "default"
+  color_theme = "coffee"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Your details.
   name = "Laura TOUBEAU"
-  role = "Student at UMONS (University of Mons, Belgium)"
+  role = "Second year Student in biology at UMONS (University of Mons, Belgium)"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ { name = "University of Mons", url = "http://www.umons.ac.be" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait 2.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "laura.toubeau@student.umons.ac.be"
   address = "Plaine de Nimy/Pentagone 3D, 8 avenue du champ de mars, 7000 Mons, Belgium"
   office_hours = "Please, send me an email for appointment"
-  phone = "+32/0XX.XX.XX.XX"
-  skype = ""
+  phone = "+32/472.40.21.99"
+  skype = "laura.toubeau"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io lauratoubeau.
