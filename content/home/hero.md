@@ -13,7 +13,7 @@ weight = 3
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
 [header]
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/main-header.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/plage.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
 # Call to action button (optional).
@@ -27,7 +27,7 @@ weight = 3
 
 Laura TOUBEAU
 <br>
-<small>A short description of myself here</small>
+<small>Hello! I'm Laura and I'm 19 years old. I'm in my 2nd year in Biology at the University of Mons in Belgium. If you want to learn more about me I invite you to check the informations below! </small>
 <br><br>
 
 <script type="text/javascript">
