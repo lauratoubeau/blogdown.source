@@ -9,7 +9,7 @@ summary = """
 Science can seems rather boring if we only consider the theoritical part. What about explore our daily life in a scientific way? 
 """
 
-[_**The Power of the music**_]
+[_**My first blog**_]
 image = "FallOutBoy.jpg"
 caption = ""
 preview = false
