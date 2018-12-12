@@ -5,8 +5,8 @@ widget = "posts"
 active = true
 date = "2018-09-24T18:00:00"
 
-title = "Recent Posts"
-subtitle = ""
+title = "Posts"
+subtitle = "Science applied to my daily life"
 
 # Order that this section will appear in.
 weight = 40
