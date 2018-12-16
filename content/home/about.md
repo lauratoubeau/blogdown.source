@@ -13,6 +13,7 @@ weight = 5
     "Biology",
     "Guitar",
     "Piano",
+    "Drawing"
   ]
 
 # List your qualifications (such as academic degrees).
