@@ -27,7 +27,7 @@ image = "headers/les_sucres.jpg"
 caption = "Image credit: **edulcorants.eu**"
 +++
 
-  **Dans le cadre de mon cours de biochimie, j'ai été amenée à réaliser en laboratoire une étude des macromolécules fondamentales du monde vivant dont les sucres. Ainsi, par le biais d'une série d'expériences, nous avons essayé de comprendre leur réactivité et par conséquent leurs propriétés chimiques. Ce projet a été réalisé par TOUBEAU Laura, LAMBERT Guillaume, MICHEL Apolline, RENIER Margaux et BRAECKEVELT Laura.**
+  **Dans le cadre de mon cours de biochimie, j'ai été amenée à réaliser en laboratoire une étude des macromolécules fondamentales du monde vivant dont les sucres. Ainsi, par le biais d'une série d'expériences, nous avons essayé de comprendre leur réactivité et par conséquent leurs propriétés chimiques. Ce projet a été réalisé par TOUBEAU Laura, MICHEL Apolline, LAMBERT Guillaume, RENIER Margaux et BRAECKEVELT Laura.**
   
 #LES SUCRES
 
