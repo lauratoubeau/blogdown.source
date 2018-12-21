@@ -55,7 +55,7 @@ Néanmoins un ajout de tartrate sodico-potassique sera indispensable à la réal
 
 La liqueur de Fehling s’attaque aux sucres réducteurs donc les liaisons osidiques ne sont pas engagées dans des liaisons osidiques.
 
-image = ![*Test de révélation de carbohydrates*](../static/img/test1.jpg)
+![*Test de révélation de carbohydrates*](../static/img/test1.jpg)
 
 _Protocole :_
 
