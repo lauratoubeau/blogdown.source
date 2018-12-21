@@ -9,7 +9,7 @@ title = "Les sucres"
 summary = "Etude en laboratoire des sucres, macromolécules essentielles à la cellule"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "les_sucres.jpg"
+image_preview = "glucose.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -55,7 +55,7 @@ Néanmoins un ajout de tartrate sodico-potassique sera indispensable à la réal
 
 La liqueur de Fehling s’attaque aux sucres réducteurs donc les liaison osidiques ne sont pas engagées dans des liaisons osidiques.
 
-![*Test de révélation de carbohydrates*](static/img/Test1.png)
+![*Test de révélation de carbohydrates*](static/img/Test1.jpg)
 
 _Protocole :_
 
@@ -79,7 +79,7 @@ Pour mettre en évidence l’hydrolyse de l’amidon, nous allons effectuer le t
 
 Durant l’expérience, nous plongerons l’amylase dans un bain marie à 37°C. Cette température est celle du corps humain, juste suffisante pour fournir assez d’énergie à l’enzyme pour qu’elle catalyse l’amidon et que la réaction se déroule mais pas assez pour dénaturer le site actif de l’enzyme.
 
-![*Digestion d’amidon par amylase*](static/img/Test2.png)
+![*Digestion d’amidon par amylase*](static/img/Test2.jpg)
 
 _Protocole :_
 
@@ -111,7 +111,7 @@ La première étape est la même que celle de la respiration : c'est la glycolys
 
 La fermentation est cependant une oxydation incomplète du glucose : Il y a en effet au cours de cette réaction production de CO2 mais également d’éthanol (C2H5OH) qui est une molécule organique à 2C. Ainsi, la dégradation du glucose est considérée comme incomplète étant donné qu’il reste encore du carbone organique on parle alors d’une oxydation incomplète du glucose.
 
-![*Digestion de glucose par des levures*](static/img/Test3.png)
+![*Digestion de glucose par des levures*](static/img/Test3.jpg)
 
 _Protocole :_
 
