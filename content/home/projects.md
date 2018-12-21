@@ -37,8 +37,8 @@ filter_default = 0
   tag = ".biology"
 
 [[filter]]
-  name = "Other"
-  tag = ".miscellaneous"
+  name = "Chemistry"
+  tag = ".chemistry"
 
 +++
 
