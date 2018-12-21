@@ -53,9 +53,9 @@ La solution de Fehling est un complexe entre des ions cuivriques et des ions tar
 
 Néanmoins un ajout de tartrate sodico-potassique sera indispensable à la réalisation de ce test afin que le cuivre ne réagisse pas avec le NaOH pour former du Na2SO4 et du Cu(OH)2 qui est un complexe bleu insoluble, ce qui rendrait le test irréalisable (aucune coloration rouge ne pourrait alors être observée). De plus, le Cu(OH)2 sous l’action de la chaleur sera déshydraté et formera de l’oxyde de cuivre qui est un complexe noir insoluble également.
 
-La liqueur de Fehling s’attaque aux sucres réducteurs donc les liaison osidiques ne sont pas engagées dans des liaisons osidiques.
+La liqueur de Fehling s’attaque aux sucres réducteurs donc les liaisons osidiques ne sont pas engagées dans des liaisons osidiques.
 
-![*Test de révélation de carbohydrates*](../static/img/test1.jpg)
+image = ![*Test de révélation de carbohydrates*](../static/img/test1.jpg)
 
 _Protocole :_
 
